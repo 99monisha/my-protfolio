@@ -16,6 +16,7 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transform);
+    width: 75%;
 }
 .about_my_image:hover{
     transform: rotate(0);

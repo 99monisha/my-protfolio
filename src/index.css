@@ -9,12 +9,12 @@
     text-decoration: none;
 }
 :root {
-    --color-bg:#000;
-    --color-bg-variant:#222;
-    --color-primary: #D85A0B;
-    --color-primary-variant:#d85a0b9a;
-    --color-white:#fff;
-    --color-light:rgba(255,255,255,0.6);
+    --color-bg:#712C7F;
+    --color-bg-variant:#3C3C3C;
+    --color-primary:#FF8455;
+    --color-primary-variant:#FF8445;
+    --color-white:#FFF;
+    --color-light:#FFE2A5;
 
     --container-width-lg:75%;
     --container-width-md:86%;
@@ -35,7 +35,6 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-color: black;
 
 }
 
