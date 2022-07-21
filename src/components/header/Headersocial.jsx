@@ -5,9 +5,9 @@ import {AiOutlineDribbble} from 'react-icons/ai'
 const Headersocial = () => {
   return (
     <div className='header_social'>
-        <a href="http://linkdin.com" target="_blank"><AiFillLinkedin /></a>
-        <a href="http://github.com" target="_blank"><AiFillGithub /></a>
-        <a href="http://dribble.com" target="_blank"><AiOutlineDribbble /></a>
+        <a href="https://www.linkedin.com/in/monisha-dolai/" target="_blank"><AiFillLinkedin /></a>
+        <a href="https://github.com/99monisha" target="_blank"><AiFillGithub /></a>
+        <a href="https://mail.google.com/mail/u/0/" target="_blank"><AiOutlineDribbble /></a>
     </div>
   )
 }

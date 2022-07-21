@@ -24,27 +24,32 @@ const About = () => {
   <div className="about_cards">
     <article className='about_card'>
        <FaAward className='about_icon'/>
-      <h5>Experiencs</h5>
-      <small>I donat have experiencs</small>
+      <h5>ACHIVEMENTS</h5>
+      <small>Solved over 150 DSA programs on HAKERRANK</small>
     </article>
 
     <article className='about_card'>
        <FiUsers className='about_icon'/>
-      <h5>Experiencs</h5>
-      <small>I donat have experiencs</small>
+      <h5>INTEREST</h5>
+      <small>Website Design and Design</small>
     </article>
 
     <article className='about_card'>
        <FaFolder className='about_icon'/>
-      <h5>Experiencs</h5>
-      <small>I donat have experiencs</small>
+      <h5>PROJECTS</h5>
+      <small>Creats differents types of projects and post on Github</small>
     </article>
   </div>
 
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, sequi magni! Sequi voluptatibus 
-    commodi natus exercitationem impedit 
-    repellat maiores sed, soluta iste, veritatis doloremque, ipsum dolorum odit
-     pariatur rem doloribus.</p>
+  <p>To secure a challenging position in the organization where I can effectively
+contribute my skills and
+knowledge as a professional
+executive.
+It would be my never ending
+dedication to maintain the
+spectrum of integrity and
+honesty.
+.</p>
 
      <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 

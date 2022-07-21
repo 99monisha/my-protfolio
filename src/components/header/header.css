@@ -34,15 +34,15 @@ header{
     background: var(--color-primary);
 }
  .me{
-background: #222;
+background: #FF8455;
 width: 30rem;
 position: absolute;
-height: 30rem;
-left: calc(50% - 12rem);
+height: 33rem;
+left: calc(50% - 16rem);
 margin-top: 4rem;
 margin-bottom: 4rem;
 border-radius: 100%;
-padding: 3rem;
+padding: 1rem;
 }
 
 .scroll_down{

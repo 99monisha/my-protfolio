@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
-import meto from '../../assets/1.webp'
-import meto1 from '../../assets/a5.jpg'
-import meto2 from '../../assets/a2.jpg'
-import meto3 from '../../assets/a5.jpg'
+import meto from '../../assets/me.jpg'
+import meto1 from '../../assets/moni.png'
+import meto2 from '../../assets/me.jpg'
+import meto3 from '../../assets/moni.png'
 
 import {Pagination} from 'swiper'
 

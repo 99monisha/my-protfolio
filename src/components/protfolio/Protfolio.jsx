@@ -1,52 +1,52 @@
 import React from 'react'
 import './protfolio.css'
-import protfolio from '../../assets/3.webp'
-import protfolio1 from '../../assets/2.webp'
-import protfolio2 from '../../assets/3.webp'
-import protfolio3 from '../../assets/1.webp'
-import protfolio4 from '../../assets/2.webp'
+import protfolio from '../../assets/a5.png'
+import protfolio1 from '../../assets/1.png'
+import protfolio2 from '../../assets/2.png'
+import protfolio3 from '../../assets/3.png'
+import protfolio4 from '../../assets/a2.png'
 const data=[
 {
   id:1,
   image:protfolio1,
-  title:'loreme jkdncjkd jdbjd ijhiuh dcu',
-  github:'#',
-  demo:'#'
+  title:'100 JS Projects',
+  github:'https://github.com/99monisha/100-JS-PROJECTS',
+  demo:'https://github.com/99monisha/100-JS-PROJECTS'
 },
 {
   id:2,
-  image:protfolio1,
-  title:'loreme jkdncjkd jdbjd ijhiuh dcu',
-  github:'#',
-  demo:'#'
+  image:protfolio4,
+  title:'Landing Page',
+  github:'https://github.com/99monisha/FRONTEND-PAGE-DESIGN/tree/main/design3',
+  demo:'https://github.com/99monisha/FRONTEND-PAGE-DESIGN/tree/main/design3'
 },
 {
   id:3,
-  image:protfolio1,
-  title:'loreme jkdncjkd jdbjd ijhiuh dcu',
-  github:'#',
-  demo:'#'
+  image:protfolio3,
+  title:'Frontend Design',
+  github:'https://github.com/99monisha/FRONTEND-PAGE-DESIGN/tree/main/design_2',
+  demo:'https://github.com/99monisha/FRONTEND-PAGE-DESIGN/tree/main/design_2'
 },
 {
   id:4,
-  image:protfolio1,
-  title:'loreme jkdncjkd jdbjd ijhiuh dcu',
-  github:'#',
-  demo:'#'
+  image:protfolio2,
+  title:'Simple Pet Landing Page',
+  github:'https://github.com/99monisha/FRONTEND-PAGE-DESIGN/tree/main/design_1',
+  demo:'https://github.com/99monisha/FRONTEND-PAGE-DESIGN/tree/main/design_1'
 },
 {
   id:1,
   image:protfolio3,
-  title:'loreme jkdncjkd jdbjd ijhiuh dcu',
+  title:'Matching Game',
   github:'#',
   demo:'#'
 },
 {
   id:5,
   image:protfolio4,
-  title:'loreme jkdncjkd jdbjd ijhiuh dcu',
-  github:'#',
-  demo:'#'
+  title:'Recipes App',
+  github:'https://github.com/99monisha/COOKING-RECIPES-APP',
+  demo:'https://github.com/99monisha/COOKING-RECIPES-APP'
 },
 
 ]
