@@ -9,17 +9,19 @@
     text-decoration: none;
 }
 :root {
-    --color-bg:#712C7F;
+    --color-bg:#000;
     --color-bg-variant:#3C3C3C;
-    --color-primary:#FF8455;
-    --color-primary-variant:#FF8445;
+    --color-primary: #AA6C7D;
+    --color-primary-variant: rgba(122, 12, 34, 0.753);
     --color-white:#FFF;
-    --color-light:#FFE2A5;
+    --color-light:#9f9595;
 
     --container-width-lg:75%;
     --container-width-md:86%;
     --container-width-ms:90%;
+    
 --transform: all 3s ease;
+
 
 }
 html{
