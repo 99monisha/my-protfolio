@@ -31,7 +31,7 @@ const About = () => {
     <article className='about_card'>
        <FiUsers className='about_icon'/>
       <h5>INTEREST</h5>
-      <small>Website Design and Design</small>
+      <small>Website Design and Development</small>
     </article>
 
     <article className='about_card'>
